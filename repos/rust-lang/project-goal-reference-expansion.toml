@@ -5,4 +5,19 @@ homepage = "https://github.com/rust-lang/rust-project-goals/blob/main/src/2025h2
 bots = []
 
 [access.teams]
-reference = "write"
+lang-docs = "write"
+
+[access.individuals]
+joshtriplett = "maintain"
+jackh726 = "maintain"
+Amanieu = "write"
+GuillaumeGomez = "write"
+SparrowLii = "write"
+borsakv = "write"
+epage = "write"
+lcnr = "write"
+lucarlig = "write"
+m-ou-se = "write"
+midiareshadi = "write"
+petrochenkov = "write"
+yaahc = "write"
